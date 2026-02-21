@@ -1,0 +1,8 @@
+metavoost-website/
+├── index.html
+├── README.md
+├── .gitignore
+└── assets/
+    ├── css/
+    ├── js/
+    └── images/
